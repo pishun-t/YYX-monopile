@@ -1,4 +1,3 @@
 joblib
 plotly
-pickle
 numpy
